@@ -69,7 +69,7 @@ Uploaded driving license image:
 
 After parsing of data from the image:
 
-![image](https://github.com/user-attachments/assets/571ca8ae-01ae-409e-82e3-778e9a50b703)
+![image](https://github.com/user-attachments/assets/3b4a1b47-5464-4929-aca1-fcf1ddbe971d)
 
 
 Parsed data:
